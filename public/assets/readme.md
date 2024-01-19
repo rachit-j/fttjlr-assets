@@ -1,0 +1,1 @@
+This is basically the location where you want your assets to go.
